@@ -1,0 +1,28 @@
+.app{
+    background: linear-gradient( rgb(21, 21, 23), rgb(21, 21, 23), rgb(71, 22, 90), rgb(21, 21, 23) );
+    width: 100%;
+   
+   
+}
+
+
+.contact{
+    /* width: 100%; */
+    margin-right: 50px;
+    padding: 10px;
+ 
+    background: rgb(58, 58, 58);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
+.field h4{
+    color: blueviolet;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.field p {
+    color: white;
+}

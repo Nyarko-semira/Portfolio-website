@@ -1,0 +1,19 @@
+.footer{
+    color: white;
+    padding: 10px 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 2px solid rgb(83, 81, 78);
+    margin: 0 10px;
+}
+
+.left h5{
+    font-size: 15px;
+}
+
+.right{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

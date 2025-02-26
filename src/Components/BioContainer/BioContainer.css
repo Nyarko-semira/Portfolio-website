@@ -1,0 +1,32 @@
+.bio{
+    color: white;
+    padding-bottom: 20px;
+}
+
+.btn2{
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+    background: transparent;
+    font-size: 12px;
+    margin: 10px 0;
+    border: 2px solid black;
+    padding: 5px 10px;
+     
+}
+
+.btn2 a{
+    color: white;
+}
+
+
+
+ .btn3{
+    font-size: 15px;
+    background-color: transparent;
+   border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px 15px;
+    color: white;
+
+}

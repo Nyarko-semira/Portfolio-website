@@ -1,0 +1,12 @@
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    width: 180px;
+    border-radius: 15px;
+    background:rgb(58, 58, 58);
+    color: white;
+    
+    padding: 3px 10px;
+}

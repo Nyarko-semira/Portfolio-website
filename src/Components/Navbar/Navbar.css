@@ -1,0 +1,42 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 3%;
+
+}
+
+.logo img{
+    width: 50px;
+    margin-left: 15px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+ul li{
+   list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+
+.home{
+    color: blueviolet;
+}
+
+.btn{
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 15px;
+    color: white;
+    
+}

@@ -1,0 +1,18 @@
+.section5{
+    padding: 50px  10%;
+    background: linear-gradient( rgb(7, 7, 7), rgb(71, 22, 90), rgb(21, 21, 23), rgb(21, 21, 23));
+    color: white;
+}
+
+
+.form-info{
+    text-align: center;
+}
+
+.form-info h5{
+    font-size: 35px;
+}
+     
+.btn{
+    padding: 101px;
+}
